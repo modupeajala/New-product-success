@@ -1,4 +1,4 @@
-# New-product-success
+# A Predictive Analysis of New Product Sucess/ Demand
 Using Machine learning to predict the success or failure of new products to be launched by Champion.
 I successfully completed this project for HanesBrands at the National Champion Analytics Competition
 *Note: Data used in this project will not be available for public view.
