@@ -1,7 +1,8 @@
 # New-product-success
 Using Machine learning to predict the success or failure of new products to be launched by Champion.
 I successfully completed this project for HanesBrands at the National Champion Analytics Competition
-Note: Data used in this project will not be available for public view.
+*Note: Data used in this project will not be available for public view.
+
 ![Screen Shot 2020-08-02 at 7 57 28 PM](https://user-images.githubusercontent.com/47016027/89136027-8452f680-d4ff-11ea-84d8-1ecd535e252d.png)
 # Introduction
 The goal of this project is to predict a 13-week demand for Champions new products and identify if the products will succeed or fail online vs Bricks & Mortar and how soon success or failure can be spotted in order to make plans accordingly.
