@@ -12,8 +12,10 @@ We will employ three different models:
 3.	Long short-term memory (LSTM): This is an artificial recurrent neural network (RNN) architecture used in the field of deep learning. LSTM networks are well-suited to classifying, processing and making predictions based on time series data, since there can be lags of unknown duration between important events in a time series.
 # Evaluation
 LSTM model performed very well overall. Generally, we got an average RMSE of around 4 in our test/train set. Some were higher and some were lower than that. LSTM generally improved prediction by more than double, on average, in comparison to the ARIMA model. ARIMA performed alright with some products but there was a lot of room for improvement
+
 ![image](https://user-images.githubusercontent.com/47016027/89136176-591cd700-d500-11ea-9e5a-3302129a3458.png)
 # Recommendations
 If both train/test set are accurate as desired and the respective forecasting model repeatedly predicts a demand below zero, we would not recommend the product. If the model consistently forecasts a demand that is continuous with past performance or increases with desirable train/test results, we recommend the product. Certain forecasts of products could be improved with LSTM models adjustment, but it is important to have a single model that allows us compare performance to each new product across the board to simulate time sensitive supply chain logistics.
+
 ![image](https://user-images.githubusercontent.com/47016027/89136287-e5c79500-d500-11ea-80a4-2d529bff5d32.png)
 ![image](https://user-images.githubusercontent.com/47016027/89136312-01cb3680-d501-11ea-9857-4773a57e13ba.png)
